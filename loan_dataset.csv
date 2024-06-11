@@ -1,0 +1,11 @@
+application_id,Name,Age,Gender,Income,loan_amount,Loan_Status,
+234,John,Doe,30,Male,50000,20000,Approved
+567,Jane,Smith,25,Female,40000,25000,Approved
+890,Michael,Johnson,35,Male,60000,30000,Approved
+123,Emily,Davis,28,Female,45000,18000,Approved
+456,David,Brown,40,Male,70000,35000,Approved
+789,Sarah,Wilson,32,Female,55000,28000,Approved
+12,Robert,Garcia,45,Male,80000,40000,Approved
+345,Linda,Martinez,27,Female,48000,20000,Approved
+678,Christopher,Lee,33,Male,65000,32000,Approved
+901,Amanda,Taylor,29,Female,52000,22000,Approved
